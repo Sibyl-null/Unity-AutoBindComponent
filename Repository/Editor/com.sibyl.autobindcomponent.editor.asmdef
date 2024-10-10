@@ -1,0 +1,16 @@
+{
+    "name": "com.sibyl.autobindcomponent.editor",
+    "rootNamespace": "AutoBindComponet.Editor",
+    "references": [
+        "GUID:e3bacd75c8241b841b3711912fbe14cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
