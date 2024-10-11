@@ -1,14 +1,19 @@
 {
     "name": "com.sibyl.autobindcomponent.editor",
-    "rootNamespace": "AutoBindComponet.Editor",
+    "rootNamespace": "AutoBindComponent.Editor",
     "references": [
         "GUID:e3bacd75c8241b841b3711912fbe14cc"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "Sirenix.Serialization.dll",
+        "Scriban.dll"
+    ],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],

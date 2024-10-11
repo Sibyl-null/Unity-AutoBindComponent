@@ -1,12 +1,14 @@
 {
     "name": "com.sibyl.autobindcomponent.runtime",
-    "rootNamespace": "AutoBindComponet.Runtime",
+    "rootNamespace": "AutoBindComponent.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll"
+    ],
     "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
