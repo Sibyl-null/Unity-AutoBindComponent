@@ -1,6 +1,6 @@
 {
   "name": "com.sibyl.autobindcomponent",
-  "version": "0.1.0",
+  "version": "1.0.0-preview1",
   "displayName": "AutoBindComponent",
   "description": "Unity 自动绑定脚本",
   "unity": "2022.3",
