@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.sibyl.autobindcomponent": "file:D:/Studio/Unity/Packages/Unity-AutoBindComponent/Repository",
+    "com.sibyl.autobindcomponent": "file:../../Repository",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.9",
     "com.unity.ugui": "1.0.0",

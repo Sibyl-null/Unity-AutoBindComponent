@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.sibyl.autobindcomponent": {
-      "version": "file:D:/Studio/Unity/Packages/Unity-AutoBindComponent/Repository",
+      "version": "file:../../Repository",
       "depth": 0,
       "source": "local",
       "dependencies": {}
